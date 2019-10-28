@@ -27,7 +27,7 @@ To do it properly you must set up the file association first:
 
 ## Installation
 
-* Download the [`Apk Installer.app.zip`](https://github.com/vitovalov/apk_installer/releases/download/v2.1/APK.installer.app.zip) from [latest releases](https://github.com/vitovalov/apk_installer/releases/latest), uncompress it and drag and drop to your Applications folder* 
+* Download the [`Apk Installer.app.zip`](https://github.com/vitovalov/apk_installer/releases/download/2.1/APK.installer.app.zip) from [latest releases](https://github.com/vitovalov/apk_installer/releases/latest), uncompress it and drag and drop to your Applications folder* 
 
 * IMPORTANT: Don't forget to go "System Settings > Security & Privacy > Allow apps downloaded from..". And press **Open anyway** if your system complains that this app was downloaded from unknown sources. 
 
